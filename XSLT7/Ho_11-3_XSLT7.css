@@ -1,0 +1,19 @@
+ html {
+    background:#DC143C; /* crimson */
+}
+
+.profanity {
+    color: blue;
+}
+
+.lifeEvent {
+    color: green;
+}
+
+.dt {
+    color: yellow;
+}
+
+.emotion {
+    color: white;
+}
