@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../rapSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<song>
+    <head>
+        <songTitle>Brenda's Got a Baby</songTitle>
+        <artist>2Pac</artist>
+        <featuredArtist>Roniece</featuredArtist>
+        <featuredArtist>Dave Hollister</featuredArtist>
+        <producer>Big D The Impossible</producer>
+        <producer>The Underground Railroad</producer>
+        <album>2Pacalypse Now</album>
+        <certification>Gold</certification>
+    </head>
+
+    <lyrics>
+        <intro>
+            <featuredSinger>Dave Hollister</featuredSinger>
+            <line>Brenda's got a baby</line>
+        </intro>
+
+        <verse>
+            <singer>2Pac</singer>
+            <line>I hear Brenda's got a baby,</line> <line>but Brenda's barely got a brain</line>
+            <line>A damn shame, the girl can hardly spell her name</line>
+            <line>"That's not our problem, that's up to Brenda's family"</line>
+            <line>Well, let me show you how it affects our whole community</line>
+            <line>Now Brenda really never knew her moms</line>
+            <line>And her dad was a junkie, puttin' death into his arms</line>
+            <line>It's sad, 'cause I bet Brenda doesn't even know</line>
+            <line>Just 'cause you're in the ghetto doesn't mean you can't grow</line>
+            <line>But oh, that's a thought, my own revelation</line>
+            <line>Do whatever it takes to resist the temptation</line>
+            <line>Brenda got herself a boyfriend</line>
+            <line>Her boyfriend was her cousin, now let's watch the joy end</line>
+            <line><phrase type="lifeEvent">She tried to hide her pregnancy, from her
+                family</phrase></line>
+            <line>Who really didn't care to see, or give a <phrase type="lifeEvent">damn</phrase> if
+                she</line>
+            <line>Went out and had a church of kids</line>
+            <line>As long as when the check came they got first dibs</line>
+            <line>Now Brenda's belly's gettin' bigger</line>
+            <line>But no one seems to notice any change in her figure</line>
+            <line><phrase type="lifeEvent">She's twelve years old and she's havin' a
+                baby</phrase></line>
+            <line>In love with a molester, who's sexin' her crazy</line>
+            <line>And yet and she thinks that he'll be with her forever</line>
+            <line>And dreams of a world where the two of them are together Whatever,</line>
+            <line><phrase type="lifeEvent">he left her and she had the baby solo</phrase></line>
+            <line><phrase type="lifeEvent"> She had it on the bathroom floor and didn't know,
+                    so</phrase></line>
+            <line>She didn't know what to throw away and what to keep</line>
+            <line>She wrapped the baby up and threw him in a trash heap</line>
+            <line>I guess she thought she'd get away, wouldn't hear the cries</line>
+            <line>She didn't realize how much the little baby had her eyes</line>
+            <line>Now the baby's in the trash heap, bawlin'</line>
+            <line>Momma can't help her, but it hurt to hear her callin'</line>
+            <line>Brenda wants to run away</line>
+            <line>Momma say you makin' me lose pay</line>
+            <line>There's social workers here every day</line>
+            <line>Now Brenda's gotta make her own way</line>
+            <line>Can't go to her family, they won't let her stay</line>
+            <line>No money, no babysitter, she couldn't keep a job</line>
+            <line><phrase type="lifeEvent">She tried to sell crack but end up gettin'
+                    robbed</phrase></line>
+            <line>So now, what's next? There ain't nothin' left to sell</line>
+            <line>So she sees sex as a way of leavin' hell</line>
+            <line>It's payin' the rent, so she really can't complain</line>
+            <line>Prostitute, found slain, and Brenda's her name She's got a baby</line>
+        </verse>
+    </lyrics>
+</song>
