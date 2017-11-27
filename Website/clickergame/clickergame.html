@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Clicker Game</title>
+        <meta charset="UTF-8" />
+        <meta name="Wesley Ho" content="Clicker Game" />
+        <script type="text/javascript" src="clickergame.js">/**/</script>
+        <link rel="stylesheet" type="text/css" href="clickergame.css"/>
+        <!--#include virtual="../icon.html" -->
+    </head>
+    <body id="bod">
+        <h1>A Simple Clicker Game</h1>
+        <hr />
+        <p>Hi, this is a simple clicker game that I learned how to code and did so in a bit over an
+            hour. It isn't very interesting and doesn't have much depth to it, but it works.</p>
+        <hr />
+        <h2>Instructions:</h2>
+        <ul id="instructions">
+            <li>Clicking the first button earns you points</li>
+            <li>Clicking the second button upgrades the number of points you receive from clicking the first button - at a price</li>
+            <li>Clicking the third button buys autoclickers. Autoclickers automatically click the first button for you</li>
+        </ul>
+        <div>
+            <button>Show/Hide Instructions</button>
+        </div>
+        <hr />
+        <div>
+            <button>Click me!</button>
+        </div>
+        <p>Points:</p>
+        <p id="points">0</p>
+        <br />
+        <div>
+            <button>Increase number of Points per click</button>
+        </div>
+        <p>Cost:</p><p id="costid">10</p>
+        <p>Points per click:</p><p id="ppc">1</p>
+        <div>
+            <button>Buy autoclicky</button>
+        </div>
+        <p>Cost:</p><p id="costid2">50</p>
+        <p>Number of autoclickies</p><p id="autoc">0</p>
+    </body>
+</html>
